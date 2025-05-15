@@ -96,6 +96,3 @@ gemini-ai-midterm/
 - Add conversation history
 - Support for image generation
 
-## License
-
-MIT
