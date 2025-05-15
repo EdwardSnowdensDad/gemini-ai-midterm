@@ -10,13 +10,6 @@ This project is a web application that provides an interface to interact with AI
 - Token usage tracking
 - Error handling
 
-## Technologies Used
-
-- Node.js and Express.js for the backend
-- Vanilla JavaScript for frontend functionality
-- Bootstrap for styling
-- OpenAI API for AI capabilities
-
 ## How to Run
 
 ### Prerequisites
